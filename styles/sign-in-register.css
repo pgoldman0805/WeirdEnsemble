@@ -1,0 +1,14 @@
+/* line 1, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/sign-in-register.scss */
+p.register-password-text {
+  font-size: 0.8em; }
+
+/* line 5, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/sign-in-register.scss */
+.inline {
+  display: inline; }
+
+/* line 8, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/sign-in-register.scss */
+.forgot-password {
+  margin-top: -2.2em;
+  float: right; }
+
+/*# sourceMappingURL=sign-in-register.css.map */

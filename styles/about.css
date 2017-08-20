@@ -1,0 +1,33 @@
+/* line 1, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/about.scss */
+h1.title {
+  background-color: dodgerblue;
+  color: white; }
+
+/* line 6, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/about.scss */
+.about-img {
+  margin-bottom: 1em; }
+  /* line 7, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/about.scss */
+  .about-img img {
+    width: 30%;
+    min-width: 200px;
+    padding: 2em; }
+
+/* line 16, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/about.scss */
+.clearfix {
+  clear: both; }
+
+/* line 20, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/about.scss */
+.aboutContent {
+  padding: 0 2em;
+  background-color: rgba(255, 255, 255, 0.7);
+  margin: 2em 0; }
+  /* line 22, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/about.scss */
+  .aboutContent p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: normal;
+    text-align: justify;
+    font-size: 1.15em;
+    margin-top: 1.5em;
+    line-height: 2; }
+
+/*# sourceMappingURL=about.css.map */

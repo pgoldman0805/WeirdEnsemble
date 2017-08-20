@@ -1,0 +1,99 @@
+/* line 4, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Rubik', sans-serif;
+  height: 100%; }
+
+/* line 14, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+.bg-image {
+  background-color: #eee; }
+  /* line 25, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+  .bg-image img {
+    opacity: 0.5;
+    width: 100%;
+    position: absolute;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1; }
+
+/* line 38, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+#mainNav {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e6f1f6+0,b1cceb+100 */
+  background: #e6f1f6;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #e6f1f6 0%, #b1cceb 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #e6f1f6 0%, #b1cceb 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #e6f1f6 0%, #b1cceb 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6f1f6', endColorstr='#b1cceb', GradientType=1);
+  /* IE6-9 fallback on horizontal gradient */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.14); }
+  /* line 51, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+  #mainNav .navbar-brand {
+    text-transform: uppercase; }
+  /* line 54, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+  #mainNav li a:not(span),
+  #mainNav a.navbar-brand {
+    color: #333;
+    font-weight: bold; }
+    /* line 58, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+    #mainNav li a:not(span):hover,
+    #mainNav a.navbar-brand:hover {
+      background-color: rgba(255, 255, 255, 0.5);
+      transition: 0.25s;
+      color: dodgerblue; }
+
+/* line 66, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+.navbar-toggle {
+  background-color: white; }
+
+/* line 70, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+.navbar-toggle .icon-bar {
+  background-color: black; }
+
+/* line 78, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+.jumbotron {
+  margin-top: 4%; }
+  /* line 79, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+  .jumbotron h1 {
+    color: #333;
+    text-transform: uppercase; }
+
+/* line 86, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+.clearfix {
+  overflow: auto; }
+
+/* line 90, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+.content-wrapper {
+  margin-top: 5%; }
+
+/* line 94, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+footer {
+  background-color: #fff; }
+  /* line 96, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+  footer .footer-contact {
+    background-color: #EFEFEF; }
+    /* line 99, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+    footer .footer-contact .footer-contact-table {
+      display: table;
+      text-align: left;
+      margin: 0 auto; }
+      /* line 103, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+      footer .footer-contact .footer-contact-table .table-cell {
+        display: table-cell;
+        padding: 0 15px;
+        vertical-align: top;
+        line-height: 1.75; }
+  /* line 111, /Users/paulgoldman/Documents/GitHub/WeirdEnsemble/styles/main.scss */
+  footer .footer-copy {
+    padding: 15px 0 10px;
+    font-size: 11px;
+    border-top: 1px solid #ccc; }
+
+/*# sourceMappingURL=main.css.map */
